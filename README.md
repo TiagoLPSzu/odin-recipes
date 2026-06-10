@@ -1,1 +1,2 @@
 # odin-recipes
+Odin recipes is the first project of the open source course "The Odin Project". Here I will practice creating a simple HTML Website and maintaining a clean and organized Github repository. 
