@@ -1,4 +1,7 @@
 * {
+    box-sizing: content-box;
+    margin: 0;
+    padding: 0;
     font-size: 1em;
     font-family:  Arial, Helvetica, sans-serif
     
@@ -28,6 +31,7 @@ body {
 .text {
     text-align: center;
     color: #ffffff;
+    margin-bottom: 1em;
 }
 
 .box {
