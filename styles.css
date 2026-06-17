@@ -20,7 +20,7 @@ button {
   text-align: inherit;
   font: inherit;
   border-radius: 0;
-  appearance: none; // Just in case we missed anything.
+  appearance: none;
 }
 
 body {
@@ -61,11 +61,25 @@ body {
     border-radius: 28px;
     margin-bottom: 2em;
 }
+
+.list2 {
+    display: flex;
+    background-color: #222025;
+    padding: 2em;
+    text-align: left;
+    font-weight: normal;
+    border-radius: 28px;
+    margin-bottom: 2em;
+}
+
 .link {
     color: #ffffff;
     margin: 1em
 }
-
+.link2 {
+    color: #ffffff;
+    margin: 1em auto;
+}
 .button {
     background-color: #222025;
     color: white;
