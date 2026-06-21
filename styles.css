@@ -3,5 +3,68 @@
     margin: 0;
     padding: 0;
     background-color: #2b2a33;
-    color: white; 
+    color: white;
+    font-family: Tahoma, sans-serif;  
+    font-size: 1em;
 }
+
+button {
+    margin: 1em;
+    padding: 10px;
+}
+
+#logo {
+    margin-top: 1em;
+}
+
+h1 {
+    text-align: center;
+    margin: 1em;
+    font-size: 3em;
+    margin-top: 8px;
+}
+
+h2 {
+    text-align: center;
+    margin: 2em;
+    font-size: 2em;
+}
+
+h3 {
+    text-align: center;
+    margin: 2em;
+    font-size: 2em;
+}
+
+p {
+    text-align: center;
+}
+
+.image {
+    display: block;
+    margin: auto; 
+}
+
+.list {
+    display: block;
+    margin-left: 4em;
+    margin-right: 4em;
+
+}
+
+li {
+    margin: 8px;
+
+}
+
+.link-list {
+    text-align: center;
+}
+
+.link {
+    display: inline-block;
+    text-align: center;
+    margin: 1em;
+}
+
+
